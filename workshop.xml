@@ -6,7 +6,7 @@
       <item>
         <name>scWheel1</name>
         <info>scWheel1Info</info>
-        <cost>0</cost>
+        <cost>12000</cost>
         <mesh item="Upgrade\wheel1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -189,7 +189,7 @@
       <item>
         <name>scWheel2</name>
         <info>scWheel2Info</info>
-        <cost>12000</cost>
+        <cost>24000</cost>
         <mesh item="Upgrade\wheel2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -372,7 +372,7 @@
       <item>
         <name>scWheel3</name>
         <info>scWheel3Info</info>
-        <cost>24000</cost>
+        <cost>40000</cost>
         <mesh item="Upgrade\wheel3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
