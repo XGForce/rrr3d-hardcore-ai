@@ -1,0 +1,52 @@
+v1.1alpha3b changelog, 04.03.2017
+
+[ENGLISH]
+ - Ability to install "Rezonator" weapon for Dirt Devil on Hemi 5.
+ - Added new "hyper" nitro for AI. In next versions will be added for player.
+1) Effect of nitro increased in 1.8 times.
+2) Price of one charge is $30000.
+3) Increased time of action of nitro - from 2.0 seconds to 2.75 seconds.
+4) Increased delay between using nitro - from 1.5 seconds to 2.0 seconds.
+5) "Hyper" nitro is available for those cars: Air Blade, Manticora, Monstertruck, Devildriver, Sidewinder.
+ - Added developers of X-Ray Dev Studios to "Authors" menu
+ - Prices for wheel upgrades are changed: $24000 for second upgrade and $40000 for third upgrade.
+ - Added preview to garage menu for Sidewinder.
+ - New balance for "Veteran" and "Warrior" difficulties.
+ - Function "Hard borders" is automatically disabled after modification installing.
+ - Increased damage for another cars with using "Spring" on Dirt Devil and Marauder.
+ - Fixed bugs with wrong showing of speed on Dirt Devil and Battle Trak.
+ - Added ability to install some kind of weapons to laser slot for Battle Trak.
+
+ [RUSSIAN]
+ - Возможность установки "Фазера" для Dirt Devil'а, начиная с Хеми 5.
+ - Создано гипер-нитро только для ИИ. В следующих версиях сделаем апгрейд для игрока. 
+1) Действие нитро увеличено в 1.8 раза. 
+2) Цена одного заряда - $30000. 
+3) Увеличено время действия нитро - с 2.0 до 2.75 секунд. 
+4) Увеличена задержка между использованием нитро - с 1.5 до 2.0 секунд. 
+5) Гипер-нитро доступно для машин : Воздушный Клинок, Мантикора, Монстертрак, Девилдрайвер, Сайдвиндер.
+ - Добавлены разработчики X-Ray Dev Studios в "Авторы".
+ - Изменены цены на апгрейд колёс: второй уровень стоит $24000, третий уровень стоит $40000.
+ - Добавлено превью (в гараже) для Сайдвиндера.
+ - Балансирование "Veteran" и "Warrior".
+ - Функция "Жёсткие бордюры" автоматически отключена перед запуском игры.
+ - Увеличен урон другим машинам с использованием прыжков на Грязном Чёрте и Мародёре.
+ - Исправлен баг с неправильным отображением скорости на Грязном Чёрте и Боевом Танке.
+ - Добавлена возможность установки некоторых видом оружия в слот лазера для Боевого Танка.
+
+[UKRAINIAN]
+ - Можливість встановлення "Фазера" для Dirt Devil'а, починаючи з Хемі 5.
+ - Створено гіпер нітро тільки для штучного інтелекту. В наступних версіях буде добавлений і для гравця.
+1) Дія нітро збільшена в 1.8 раз.
+2) Ціна одного заряду - $30000.
+3) Збільшений час дії нітро - з 2.0 до 2.75 секунд.
+4) Збільшена затримка між використанням нітро - з 1.5 до 2.0 секунд.
+5) Гіпер-нітро доступне для наступних машин: Air Blade, Manticora, Monstertruck, Devildriver, Sidewinder.
+ - Додані розробники X-Ray Dev Studios в меню "Автори".
+ - Змінені ціни на апгрейд шин: другий рівень коштує $24000, третій рівень коштує $40000.
+ - Додано превью (в гаражі) для Sidewinder'а.
+ - Балансування "Veteran" і "Warrior".
+ - Функція "Жорсткі бордюри" автоматично відключена перед запуском гри.
+ - Збільшена шкода іншим машинам з використанням прижків на Dirt Devil'і і Marauder'і.
+ - Виправлений баг з неправильним показом швидкостей на Dirt Devil'і і Battle Trak'ові.
+ - Додана можливість встановлення деяких видів зброї в слот лазера для Battle Trak'а.

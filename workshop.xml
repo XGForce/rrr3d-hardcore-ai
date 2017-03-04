@@ -189,7 +189,7 @@
       <item>
         <name>scWheel2</name>
         <info>scWheel2Info</info>
-        <cost>24000</cost>
+        <cost>12000</cost>
         <mesh item="Upgrade\wheel2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -372,7 +372,7 @@
       <item>
         <name>scWheel3</name>
         <info>scWheel3Info</info>
-        <cost>40000</cost>
+        <cost>24000</cost>
         <mesh item="Upgrade\wheel3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -1445,7 +1445,7 @@
               <asymptoteSlip>0</asymptoteSlip>
               <asymptoteValue>0</asymptoteValue>
             </latTire>
-            <maxTorque>90000</maxTorque>
+            <maxTorque>900</maxTorque>
             <life>0</life>
           </func0>
           <func1>
@@ -2023,7 +2023,7 @@
               <asymptoteSlip>0</asymptoteSlip>
               <asymptoteValue>0</asymptoteValue>
             </latTire>
-            <maxTorque>90000</maxTorque>
+            <maxTorque>1500</maxTorque>
             <life>0</life>
           </func0>
           <func1>
@@ -3522,7 +3522,7 @@
             <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\bulletProj</model>
           </proj0>
         </projList>
-        <shotDelay>0</shotDelay>
+        <shotDelay>0.06</shotDelay>
       </item>
     </bulletGun>
     <rifleWeapon>
@@ -4621,11 +4621,11 @@
         <shotDelay>1.5</shotDelay>
       </item>
     </hyperdrive>
-    <hypernitro>
+    <hyperdrive2>
       <type>5</type>
       <item>
-        <name>scHyperNitro</name>
-        <info>scHyperNitroInfo</info>
+        <name>scHyper2</name>
+        <info>scHyper2Info</info>
         <cost>30000</cost>
         <mesh item="Weapon\hyperdrive.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\hyperdrive.dds">world\resManager\imageLib\tex2dLib</texture>
@@ -4662,6 +4662,6 @@
         </projList>
         <shotDelay>2.0</shotDelay>
       </item>
-    </hypernitro>
+    </hyperdrive2>
   </workshop>
 </workshopRoot>

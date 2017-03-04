@@ -419,11 +419,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item1>
-          <item2>
+          <rezonator>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
-          </item2>
+          </rezonator>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -597,7 +597,7 @@
             <offset>-1.5 0 0.35</offset>
           </item0>
           <item1>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hypernitro</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item1>
@@ -851,7 +851,7 @@
             <offset>-1.5 0 0.35</offset>
           </item0>
           <item1>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hypernitro</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item1>
@@ -2545,7 +2545,7 @@
             <offset>-1.5 0 0.35</offset>
           </item0>
           <item1>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hypernitro</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item1>
@@ -3187,7 +3187,7 @@
             <offset>-1.5 0 0.35</offset>
           </item0>
           <item1>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hypernitro</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item1>
@@ -3492,6 +3492,11 @@
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
+            <rot>0 0 1 -4.37114e-008</rot>
+            <offset>-1.5 0 0.35</offset>
+          </item1>
         </items>
       </stHyper>
       <stMine>
