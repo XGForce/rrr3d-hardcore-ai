@@ -3022,7 +3022,7 @@
               <pass>2</pass>
             </slots8>
             <slots9>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\sonar</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
               <charge>5</charge>
               <type>stWeapon1</type>
               <pass>2</pass>
