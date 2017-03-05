@@ -2958,17 +2958,17 @@
           <maxPass>2</maxPass>
           <cars>
             <car0>
-              <record lib="world\db\ctCar">world\db\root\ctCar\podushka</record>
+              <record lib="world\db\ctCar">world\db\root\ctCar\devildriverBoss</record>
               <pass>1</pass>
             </car0>
             <car1>
-              <record lib="world\db\ctCar">world\db\root\ctCar\podushka</record>
+              <record lib="world\db\ctCar">world\db\root\ctCar\devildriverBoss</record>
               <pass>2</pass>
             </car1>
           </cars>
           <slots>
             <slots0>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine2</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>1</pass>
@@ -2979,78 +2979,96 @@
               <type>stArmor</type>
               <pass>1</pass>
             </slots1>
-            <slots3>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\sphereGun</record>
-              <charge>6</charge>
+            <slots2>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
+              <charge>8</charge>
               <type>stWeapon1</type>
+              <pass>1</pass>
+            </slots2>
+            <slots3>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+              <charge>8</charge>
+              <type>stWeapon2</type>
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
-              <charge>6</charge>
-              <type>stWeapon2</type>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeapon</record>
+              <charge>8</charge>
+              <type>stWeapon3</type>
               <pass>1</pass>
             </slots4>
             <slots5>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\turel</record>
-              <charge>6</charge>
-              <type>stWeapon3</type>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine3</record>
+              <charge>4</charge>
+              <type>stMine</type>
               <pass>1</pass>
             </slots5>
             <slots6>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine3</record>
-              <charge>6</charge>
-              <type>stMine</type>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <charge>4</charge>
+              <type>stHyper</type>
               <pass>1</pass>
             </slots6>
             <slots7>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
-              <charge>7</charge>
-              <type>stHyper</type>
-              <pass>1</pass>
-            </slots7>
-            <slots8>
               <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>2</pass>
-            </slots8>
-            <slots9>
+            </slots7>
+            <slots8>
               <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor3</record>
               <charge>0</charge>
               <type>stArmor</type>
               <pass>2</pass>
-            </slots9>
-            <slots11>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\sphereGun</record>
-              <charge>7</charge>
+            </slots8>
+            <slots9>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\sonar</record>
+              <charge>5</charge>
               <type>stWeapon1</type>
+              <pass>2</pass>
+            </slots9>
+            <slots10>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine3</record>
+              <charge>6</charge>
+              <type>stMine</type>
+              <pass>2</pass>
+            </slots10>
+            <slots11>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <charge>7</charge>
+              <type>stHyper</type>
               <pass>2</pass>
             </slots11>
             <slots12>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
-              <charge>10</charge>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulse</record>
+              <charge>3</charge>
               <type>stWeapon2</type>
-              <pass>2</pass>
+              <pass>1</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulse</record>
-              <charge>7</charge>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeapon</record>
+              <charge>1</charge>
               <type>stWeapon3</type>
-              <pass>2</pass>
+              <pass>1</pass>
             </slots13>
             <slots14>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine3</record>
-              <charge>8</charge>
-              <type>stMine</type>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulse</record>
+              <charge>5</charge>
+              <type>stWeapon2</type>
               <pass>2</pass>
             </slots14>
             <slots15>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
-              <charge>8</charge>
-              <type>stHyper</type>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\drobilka</record>
+              <charge>5</charge>
+              <type>stWeapon3</type>
               <pass>2</pass>
             </slots15>
+            <slots16>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeapon</record>
+              <charge>1</charge>
+              <type>stWeapon4</type>
+              <pass>2</pass>
+            </slots16>
           </slots>
         </player0>
         <player1>
