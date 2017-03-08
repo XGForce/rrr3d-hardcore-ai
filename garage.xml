@@ -3490,12 +3490,12 @@
           <item0>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
             <rot>0 0 1 -4.37114e-008</rot>
-            <offset>-1.5 0 0.35</offset>
+            <offset>-1.87 0 0.35</offset>
           </item0>
           <item1>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
             <rot>0 0 1 -4.37114e-008</rot>
-            <offset>-1.5 0 0.35</offset>
+            <offset>-1.87 0 0.35</offset>
           </item1>
         </items>
       </stHyper>

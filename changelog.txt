@@ -1,22 +1,22 @@
-v1.1alpha4 changelog, 04.03.2017-05.03.2017
+v1.1alpha5 changelog, 05.03.2017-08.03.2017
 
 [ENGLISH]
- - Added "Hyper" nitro information.
- - AI using "Hyper" nitro on Air Blade's and Manticora's on Hemi 5.
- - Increased AI difficulty on Intaria and Patagonis.
- - Fixed bug: one of bots on Intaria had only one oil charge.
- - Created bonus stats for each bot on Intaria and Patagonis.
+ - Two AI's on Inferno driving on Sidewinder.
+ - Increased number of laps on some Inferno maps.
+ - Fixed position of nitro on Sidewinder.
+ - New names of difficulties in menu: "Extremal", "Expert" and old "Master".
+ - Increased AI difficulty on Inferno.
 
 [RUSSIAN]
- - Добавлена информация по гипер-нитро.
- - Боты используют гипер-нитро на Air Blade'ах и Manticora'х на третьей планете.
- - Увеличена сложность ИИ на Интарии и Патагонисе.
- - Исправлен баг: один из ботов на Интарии имел только один заряд масла.
- - Сделаны бонусные статы каждому боту на Интарии и Патагонисе.
+ - Двое ИИ на Инферно ездят на Сайдвиндере.
+ - Увеличено число кругов на некоторых трассах Инферно.
+ - Исправлена позиция нитро на Сайдвиндере.
+ - Новые названия сложностей в меню: "Экстремал", "Эксперт", и старое название "Мастер".
+ - Увеличена сложность ИИ на Инферно.
 
 [UKRAINIAN]
- - Додана інформація по гіпер-нітро.
- - Боти використовують гіпер-нітро на Air Blade'ах та Manticora'х на третій планеті.
- - Збільшена важкість ботів на Intaria'ї та Patagonis'і.
- - Виправлений баг: один з ботів на Intaria'ї мав тільки один заряд масла.
- - Створені бонусні стати кожному боту на Intaria'ї і Patagonis'ї.
+ - Два бота на Інферно їздять на Сайдвіндері.
+ - Збільшено число кругів на деяких трассах Інферно.
+ - Виправлена позиція нітро на Сайдвіндері.
+ - Нові назви важкостей в меню : "Extremal", "Expert" і стара назва "Master".
+ - Збільшена важкість ботів на Інферно.
