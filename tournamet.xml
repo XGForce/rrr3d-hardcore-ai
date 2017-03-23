@@ -80,11 +80,11 @@
       <points>
         <point0>
           <place>1</place>
-          <value>1800</value>
+          <value>1400</value>
         </point0>
         <point1>
           <place>2</place>
-          <value>2000</value>
+          <value>1500</value>
         </point1>
       </points>
       <wheaters>
@@ -108,7 +108,7 @@
       <prices>
         <price0>
           <money>13000</money>
-          <points>400</points>
+          <points>300</points>
         </price0>
         <price1>
           <money>10000</money>
@@ -203,7 +203,7 @@
               <pass>1</pass>
             </slots2>
             <slots3>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba2</record>
               <charge>0</charge>
               <type>stTruba</type>
               <pass>1</pass>
@@ -227,7 +227,7 @@
               <pass>1</pass>
             </slots6>
             <slots7>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine2</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>2</pass>
@@ -335,7 +335,7 @@
               <pass>2</pass>
             </slots7>
             <slots8>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\wheel3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\wheel2</record>
               <charge>0</charge>
               <type>stWheel</type>
               <pass>2</pass>
@@ -431,7 +431,7 @@
               <pass>2</pass>
             </slots9>
             <slots10>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba2</record>
               <charge>0</charge>
               <type>stTruba</type>
               <pass>2</pass>
@@ -509,7 +509,7 @@
               <pass>1</pass>
             </slots5>
             <slots6>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine2</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>2</pass>
@@ -611,7 +611,7 @@
               <pass>2</pass>
             </slots7>
             <slots8>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\wheel3</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\wheel2</record>
               <charge>0</charge>
               <type>stWheel</type>
               <pass>2</pass>
@@ -723,11 +723,11 @@
       <points>
         <point0>
           <place>1</place>
-          <value>2000</value>
+          <value>1500</value>
         </point0>
         <point1>
           <place>2</place>
-          <value>2200</value>
+          <value>1600</value>
         </point1>
       </points>
       <wheaters>
@@ -747,7 +747,7 @@
       <prices>
         <price0>
           <money>13000</money>
-          <points>400</points>
+          <points>300</points>
         </price0>
         <price1>
           <money>10000</money>
@@ -1419,11 +1419,11 @@
       <points>
         <point0>
           <place>1</place>
-          <value>2200</value>
+          <value>1600</value>
         </point0>
         <point1>
           <place>2</place>
-          <value>2400</value>
+          <value>1700</value>
         </point1>
       </points>
       <wheaters>
@@ -1439,7 +1439,7 @@
       <prices>
         <price0>
           <money>13000</money>
-          <points>400</points>
+          <points>300</points>
         </price0>
         <price1>
           <money>10000</money>
@@ -2193,11 +2193,11 @@
       <points>
         <point0>
           <place>1</place>
-          <value>2600</value>
+          <value>1700</value>
         </point0>
         <point1>
           <place>2</place>
-          <value>2800</value>
+          <value>1800</value>
         </point1>
       </points>
       <wheaters>
@@ -2213,7 +2213,7 @@
       <prices>
         <price0>
           <money>13000</money>
-          <points>400</points>
+          <points>300</points>
         </price0>
         <price1>
           <money>10000</money>
@@ -2898,11 +2898,11 @@
       <points>
         <point0>
           <place>1</place>
-          <value>2800</value>
+          <value>1800</value>
         </point0>
         <point1>
           <place>2</place>
-          <value>3000</value>
+          <value>1900</value>
         </point1>
       </points>
       <wheaters>
@@ -2918,7 +2918,7 @@
       <prices>
         <price0>
           <money>13000</money>
-          <points>400</points>
+          <points>300</points>
         </price0>
         <price1>
           <money>10000</money>

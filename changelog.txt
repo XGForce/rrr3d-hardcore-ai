@@ -1,22 +1,12 @@
-v1.1alpha5 changelog, 05.03.2017-08.03.2017
+v1.1alpha6 changelog, 22.03.2017
 
-[ENGLISH]
- - Two AI's on Inferno driving on Sidewinder.
- - Increased number of laps on some Inferno maps.
- - Fixed position of nitro on Sidewinder.
- - New names of difficulties in menu: "Extremal", "Expert" and old "Master".
- - Increased AI difficulty on Inferno.
-
-[RUSSIAN]
- - Двое ИИ на Инферно ездят на Сайдвиндере.
- - Увеличено число кругов на некоторых трассах Инферно.
- - Исправлена позиция нитро на Сайдвиндере.
- - Новые названия сложностей в меню: "Экстремал", "Эксперт", и старое название "Мастер".
- - Увеличена сложность ИИ на Инферно.
-
-[UKRAINIAN]
- - Два бота на Інферно їздять на Сайдвіндері.
- - Збільшено число кругів на деяких трассах Інферно.
- - Виправлена позиція нітро на Сайдвіндері.
- - Нові назви важкостей в меню : "Extremal", "Expert" і стара назва "Master".
- - Збільшена важкість ботів на Інферно.
+ - New score system: now players get 300 points from taking 1st place.
+ - New score system: all planets has been remaked due to new score system. Scores now are:
+ a. Intaria - 1400 and 1500 pts;
+ b. Patagonis - 1500 and 1600 pts;
+ c. Hemi 5 - 1600 and 1700 pts;
+ d. NHO - 1700 and 1800 pts;
+ e. Inferno - 1800 and 1900 pts.
+ - New names of difficulties: Veteran, Expert and Master (thanks for bamalf).
+ - Black oil is included with this update (thanks for bamalf).
+ - New balance on Intaria.
