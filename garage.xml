@@ -4266,10 +4266,10 @@
         <show>false</show>
         <lock>true</lock>
         <pos>0 0 0</pos>
-        <defItem lib="world\race\workshop">world\race\workshopRoot\workshop\maslo</defItem>
+        <defItem lib="world\race\workshop">world\race\workshopRoot\workshop\acidoil</defItem>
         <items>
           <item0>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\maslo</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\acidoil</record>
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>

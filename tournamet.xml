@@ -159,13 +159,17 @@
           <pass>0</pass>
         </car1>
         <car2>
-          <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
+          <record lib="world\db\ctCar">world\db\root\ctCar\tankchetti</record>
           <pass>0</pass>
         </car2>
         <car3>
-          <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
+          <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
           <pass>0</pass>
         </car3>
+        <car4>
+          <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
+          <pass>0</pass>
+        </car4>
       </cars>
       <players>
         <player0>
@@ -899,7 +903,7 @@
               <pass>2</pass>
             </slots16>
             <slots17>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
               <charge>5</charge>
               <type>stHyper</type>
               <pass>2</pass>
@@ -1025,7 +1029,7 @@
               <pass>2</pass>
             </slots16>
             <slots17>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
               <charge>5</charge>
               <type>stHyper</type>
               <pass>2</pass>
@@ -1133,7 +1137,7 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
               <charge>4</charge>
               <type>stHyper</type>
               <pass>2</pass>

@@ -1,12 +1,5 @@
-v1.1alpha6 changelog, 22.03.2017
+v1.1alpha7e1 changelog, 05.12.2017
 
- - New score system: now players get 300 points from taking 1st place.
- - New score system: all planets has been remaked due to new score system. Scores now are:
- a. Intaria - 1400 and 1500 pts;
- b. Patagonis - 1500 and 1600 pts;
- c. Hemi 5 - 1600 and 1700 pts;
- d. NHO - 1700 and 1800 pts;
- e. Inferno - 1800 and 1900 pts.
- - New names of difficulties: Veteran, Expert and Master (thanks for bamalf).
- - Black oil is included with this update (thanks for bamalf).
- - New balance on Intaria.
+ - new balance on Patagonis;
+ - added acid-oil for Tankchetti;
+ - Tankchetti now is starter car.

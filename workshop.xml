@@ -4410,6 +4410,48 @@
         <shotDelay>0.05</shotDelay>
       </item>
     </maslo>
+    <acidoil>
+      <type>6</type>
+      <item>
+        <name>scAcidOil</name>
+        <info>scAcidOilInfo</info>
+        <cost>7500</cost>
+        <mesh item="Weapon\maslo.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\maslo.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\masloWeapon</mapObj>
+        <damage>10</damage>
+        <maxCharge>14</maxCharge>
+        <cntCharge>2</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>7500</chargeCost>
+        <projList>
+          <proj0>
+            <type>11</type>
+            <pos>0 0 0.2</pos>
+            <rot>0 0 0 1</rot>
+            <size>1.25 1.25 1.7</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>0</speed>
+            <speedRelativeMin>0</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>0</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>10</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\maslo</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.05</shotDelay>
+      </item>
+    </acidoil>
     <mine1>
       <type>6</type>
       <item>
