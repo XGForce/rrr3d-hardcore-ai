@@ -2,4 +2,5 @@ v1.1alpha7e1 changelog, 05.12.2017
 
  - new balance on Patagonis;
  - added acid-oil for Tankchetti;
- - Tankchetti now is starter car.
+ - Tankchetti now is starter car;
+ - fixed minor bugs.
