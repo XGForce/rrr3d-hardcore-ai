@@ -4417,7 +4417,7 @@
         <info>scAcidOilInfo</info>
         <cost>7500</cost>
         <mesh item="Weapon\maslo.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\maslo.dds">world\resManager\imageLib\tex2dLib</texture>
+        <texture item="Weapon\maslo_top.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
         <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\masloWeapon</mapObj>

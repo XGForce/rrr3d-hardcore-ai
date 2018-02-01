@@ -4293,7 +4293,7 @@
         <active>true</active>
         <show>true</show>
         <lock>false</lock>
-        <pos>-0.41 0.08 1.1</pos>
+        <pos>-0.41 0.02 1.035</pos>
         <items>
           <item0>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
@@ -4305,6 +4305,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item1>
+          <rezonator>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </rezonator>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
