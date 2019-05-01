@@ -215,7 +215,7 @@
               <pass>1</pass>
             </slots4>
             <slots5>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>4</charge>
               <type>stWeapon2</type>
               <pass>1</pass>
@@ -275,7 +275,7 @@
               <pass>2</pass>
             </slots14>
             <slots15>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>5</charge>
               <type>stWeapon3</type>
               <pass>2</pass>
@@ -335,7 +335,7 @@
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeapon</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeaponUpg</record>
               <charge>4</charge>
               <type>stWeapon1</type>
               <pass>1</pass>
@@ -389,7 +389,7 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeapon</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeaponUpg</record>
               <charge>5</charge>
               <type>stWeapon1</type>
               <pass>2</pass>
@@ -455,13 +455,13 @@
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba2</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\truba3</record>
               <charge>0</charge>
               <type>stTruba</type>
               <pass>1</pass>
             </slots4>
             <slots5>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\bulletGun</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\bulletGunUpg</record>
               <charge>20</charge>
               <type>stWeapon1</type>
               <pass>1</pass>
@@ -533,7 +533,7 @@
           </cars>
           <slots>
             <slots0>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine2</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>1</pass>
@@ -563,7 +563,7 @@
               <pass>1</pass>
             </slots4>
             <slots5>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>5</charge>
               <type>stWeapon2</type>
               <pass>1</pass>
@@ -653,7 +653,7 @@
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeapon</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeaponUpg</record>
               <charge>6</charge>
               <type>stWeapon1</type>
               <pass>1</pass>
@@ -665,7 +665,7 @@
               <pass>1</pass>
             </slots5>
             <slots6>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine2</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine3</record>
               <charge>0</charge>
               <type>stMotor</type>
               <pass>2</pass>
@@ -1079,7 +1079,7 @@
               <pass>2</pass>
             </slots14>
             <slots15>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>5</charge>
               <type>stWeapon3</type>
               <pass>2</pass>
@@ -1313,7 +1313,7 @@
               <pass>2</pass>
             </slots13>
             <slots14>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>7</charge>
               <type>stWeapon2</type>
               <pass>2</pass>
@@ -1379,7 +1379,7 @@
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\blasterGun</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\blasterGunUpg</record>
               <charge>5</charge>
               <type>stWeapon1</type>
               <pass>1</pass>
@@ -1433,7 +1433,7 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\blasterGun</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\blasterGunUpg</record>
               <charge>6</charge>
               <type>stWeapon1</type>
               <pass>2</pass>
@@ -1767,7 +1767,7 @@
               <pass>1</pass>
             </slots5>
             <slots6>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortiraUpg</record>
               <charge>6</charge>
               <type>stWeapon3</type>
               <pass>1</pass>
@@ -1947,7 +1947,7 @@
               <pass>2</pass>
             </slots14>
             <slots15>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>7</charge>
               <type>stWeapon3</type>
               <pass>2</pass>
@@ -2193,7 +2193,7 @@
               <pass>2</pass>
             </slots13>
             <slots14>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>7</charge>
               <type>stWeapon2</type>
               <pass>2</pass>
@@ -2502,7 +2502,7 @@
               <pass>2</pass>
             </slots18>
             <slots19>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
               <charge>7</charge>
               <type>stHyper</type>
               <pass>2</pass>
@@ -2550,7 +2550,7 @@
               <pass>1</pass>
             </slots3>
             <slots4>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortiraUpg</record>
               <charge>3</charge>
               <type>stWeapon3</type>
               <pass>1</pass>
@@ -2706,7 +2706,7 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>5</charge>
               <type>stWeapon1</type>
               <pass>2</pass>
@@ -2844,7 +2844,7 @@
               <pass>2</pass>
             </slots14>
             <slots15>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>7</charge>
               <type>stWeapon2</type>
               <pass>2</pass>
@@ -3320,7 +3320,7 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>7</charge>
               <type>stWeapon1</type>
               <pass>2</pass>
@@ -3530,7 +3530,7 @@
               <pass>1</pass>
             </slots4>
             <slots5>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>7</charge>
               <type>stWeapon3</type>
               <pass>1</pass>
@@ -3566,7 +3566,7 @@
               <pass>2</pass>
             </slots11>
             <slots12>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncher</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rocketLauncherUpg</record>
               <charge>9</charge>
               <type>stWeapon2</type>
               <pass>2</pass>

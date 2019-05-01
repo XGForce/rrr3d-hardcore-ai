@@ -6,7 +6,7 @@
       <item>
         <name>scWheel1</name>
         <info>scWheel1Info</info>
-        <cost>12000</cost>
+        <cost>16000</cost>
         <mesh item="Upgrade\wheel1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -189,7 +189,7 @@
       <item>
         <name>scWheel2</name>
         <info>scWheel2Info</info>
-        <cost>24000</cost>
+        <cost>32000</cost>
         <mesh item="Upgrade\wheel2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -372,7 +372,7 @@
       <item>
         <name>scWheel3</name>
         <info>scWheel3Info</info>
-        <cost>40000</cost>
+        <cost>45000</cost>
         <mesh item="Upgrade\wheel3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\wheel3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -573,7 +573,7 @@
       <item>
         <name>scGuseniza1</name>
         <info>scGuseniza1Info</info>
-        <cost>0</cost>
+        <cost>16000</cost>
         <mesh item="Upgrade\gusWheel1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\gusWheel1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -623,7 +623,7 @@
       <item>
         <name>scGuseniza2</name>
         <info>scGuseniza2Info</info>
-        <cost>14000</cost>
+        <cost>21000</cost>
         <mesh item="Upgrade\gusWheel2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\gusWheel1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -673,7 +673,7 @@
       <item>
         <name>scGuseniza3</name>
         <info>scGuseniza3Info</info>
-        <cost>26000</cost>
+        <cost>35000</cost>
         <mesh item="Upgrade\gusWheel3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\gusWheel3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -723,7 +723,7 @@
       <item>
         <name>scGuseniza4</name>
         <info>scGuseniza4Info</info>
-        <cost>30000</cost>
+        <cost>40000</cost>
         <mesh item="Upgrade\gusWheel3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\gusWheel3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -805,7 +805,7 @@
       <item>
         <name>scTruba1</name>
         <info>scTruba1Info</info>
-        <cost>0</cost>
+        <cost>10000</cost>
         <mesh item="Upgrade\truba1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\truba1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -1006,7 +1006,7 @@
       <item>
         <name>scTruba2</name>
         <info>scTruba2Info</info>
-        <cost>8000</cost>
+        <cost>12000</cost>
         <mesh item="Upgrade\truba2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\truba2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -1207,7 +1207,7 @@
       <item>
         <name>scTruba3</name>
         <info>scTruba3Info</info>
-        <cost>16000</cost>
+        <cost>18000</cost>
         <mesh item="Upgrade\truba3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\truba3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -1425,7 +1425,7 @@
       <item>
         <name>scEngine1</name>
         <info>scEngine1Info</info>
-        <cost>0</cost>
+        <cost>20000</cost>
         <mesh item="Upgrade\engine1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\engine1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -1714,7 +1714,7 @@
       <item>
         <name>scEngine2</name>
         <info>scEngine2Info</info>
-        <cost>21000</cost>
+        <cost>28000</cost>
         <mesh item="Upgrade\engine2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\engine2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -2003,7 +2003,7 @@
       <item>
         <name>scEngine3</name>
         <info>scEngine3Info</info>
-        <cost>38000</cost>
+        <cost>47000</cost>
         <mesh item="Upgrade\engine3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\engine3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -2695,7 +2695,7 @@
       <item>
         <name>scArmor2</name>
         <info>scArmor2Info</info>
-        <cost>24000</cost>
+        <cost>28000</cost>
         <mesh item="Upgrade\armor2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\armor2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -2981,7 +2981,7 @@
       <item>
         <name>scArmor3</name>
         <info>scArmor3Info</info>
-        <cost>36000</cost>
+        <cost>42000</cost>
         <mesh item="Upgrade\armor3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Upgrade\armor3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -3941,6 +3941,69 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </blasterGun>
+    <blasterGunUpg>
+      <type>7</type>
+      <item>
+        <name>scBlaster</name>
+        <info>scBlasterInfo</info>
+        <cost>0</cost>
+        <mesh item="Weapon\blasterGun.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\manticora.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\blasterGun</mapObj>
+        <damage>18</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>11000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0.3 -0.6 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.5 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>9</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\blaster</model>
+          </proj0>
+          <proj1>
+            <type>0</type>
+            <pos>0.3 0.6 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.5 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>9</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\blaster</model>
+          </proj1>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </blasterGunUpg>
     <tankLaser>
       <type>7</type>
       <item>
@@ -4202,7 +4265,7 @@
       <item>
         <name>scRocket</name>
         <info>scRocketInfo</info>
-        <cost>13000</cost>
+        <cost>14000</cost>
         <mesh item="Weapon\rocketLauncher.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\rocketLauncher.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -4212,7 +4275,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>13000</chargeCost>
+        <chargeCost>14000</chargeCost>
         <projList>
           <proj0>
             <type>0</type>
@@ -4239,6 +4302,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </rocketLauncher>
+    <rocketLauncherUpg>
+      <type>7</type>
+      <item>
+        <name>scRocket</name>
+        <info>scRocketInfo</info>
+        <cost>20000</cost>
+        <mesh item="Weapon\rocketLauncher.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\rocketLauncher.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\rocketLauncher</mapObj>
+        <damage>18</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>20000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0 0 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 1 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>45</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>150</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>18</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\rocket</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </rocketLauncherUpg>
     <pulsator>
       <type>7</type>
       <item>
@@ -4281,6 +4386,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </pulsator>
+    <pulsatorUpg>
+      <type>7</type>
+      <item>
+        <name>scPulsator</name>
+        <info>scPulsatorInfo</info>
+        <cost>20000</cost>
+        <mesh item="Weapon\pulsator.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\pulsator.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\pulsator</mapObj>
+        <damage>15</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>12000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>3 1 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>150</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>15</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\laserPulse</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </pulsatorUpg>
     <fireGun>
       <type>7</type>
       <item>
@@ -4617,6 +4764,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </mortira>
+    <mortiraUpg>
+      <type>7</type>
+      <item>
+        <name>scMortira</name>
+        <info>scMortiraInfo</info>
+        <cost>20000</cost>
+        <mesh item="Weapon\mortira.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\mortira.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\mortira</mapObj>
+        <damage>32</damage>
+        <maxCharge>3</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>21000</chargeCost>
+        <projList>
+          <proj0>
+            <type>19</type>
+            <pos>0 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>0.5 0.5 1</size>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>500</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>32</damage>
+            <model lib="world\db\ctEffects">world\db\root\ctEffects\mortiraBall</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </mortiraUpg>
     <asyncFrost>
       <type>7</type>
       <item>
