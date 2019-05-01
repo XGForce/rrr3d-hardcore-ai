@@ -4308,11 +4308,11 @@
         <name>scRocket</name>
         <info>scRocketInfo</info>
         <cost>20000</cost>
-        <mesh item="Weapon\rocketLauncher.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\rocketLauncher.dds">world\resManager\imageLib\tex2dLib</texture>
+        <mesh item="Weapon\rocketLauncherUpg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\rocketLauncherUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
-        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\rocketLauncher</mapObj>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\rocketLauncherUpg</mapObj>
         <damage>18</damage>
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
@@ -4392,11 +4392,11 @@
         <name>scPulsator</name>
         <info>scPulsatorInfo</info>
         <cost>20000</cost>
-        <mesh item="Weapon\pulsator.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\pulsator.dds">world\resManager\imageLib\tex2dLib</texture>
+        <mesh item="Weapon\pulsatorUpg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\pulsatorUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
-        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\pulsator</mapObj>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\pulsatorUpg</mapObj>
         <damage>15</damage>
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
@@ -4690,7 +4690,7 @@
         <texture item="Weapon\torpedaUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
-        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\torpedaWeapon</mapObj>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\torpedaWeaponUpg</mapObj>
         <damage>55</damage>
         <maxCharge>2</maxCharge>
         <cntCharge>1</cntCharge>
@@ -4716,7 +4716,7 @@
               <distrib>vdLinear</distrib>
             </minTimeLife>
             <damage>55</damage>
-            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\torpeda</model>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\torpedaUpg</model>
           </proj0>
         </projList>
         <shotDelay>0.2</shotDelay>
@@ -4770,11 +4770,11 @@
         <name>scMortira</name>
         <info>scMortiraInfo</info>
         <cost>20000</cost>
-        <mesh item="Weapon\mortira.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\mortira.dds">world\resManager\imageLib\tex2dLib</texture>
+        <mesh item="Weapon\mortiraUpg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\mortiraUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
-        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\mortira</mapObj>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\mortiraUpg</mapObj>
         <damage>32</damage>
         <maxCharge>3</maxCharge>
         <cntCharge>1</cntCharge>
@@ -5122,7 +5122,7 @@
         <curCharge>0</curCharge>
         <chargeCost>40000</chargeCost>
         <shotDelay>0.2</shotDelay>
-        <repairPeriod>1</repairPeriod>
+        <repairPeriod>1.6</repairPeriod>
         <repairValue>2</repairValue>
       </item>
     </droid>
@@ -5187,7 +5187,7 @@
         <shotDelay>0.05</shotDelay>
       </item>
     </maslo>
-    <acidoil>
+    <masloacid>
       <type>6</type>
       <item>
         <name>scAcidOil</name>
@@ -5202,7 +5202,7 @@
         <maxCharge>14</maxCharge>
         <cntCharge>2</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>7500</chargeCost>
+        <chargeCost>10000</chargeCost>
         <projList>
           <proj0>
             <type>11</type>
@@ -5223,18 +5223,18 @@
               <distrib>vdLinear</distrib>
             </minTimeLife>
             <damage>10</damage>
-            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\maslo</model>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\masloacid</model>
           </proj0>
         </projList>
         <shotDelay>0.05</shotDelay>
       </item>
-    </acidoil>
+    </masloacid>
     <mine1>
       <type>6</type>
       <item>
         <name>scMineSpike</name>
         <info>scMineSpikeInfo</info>
-        <cost>12000</cost>
+        <cost>9000</cost>
         <mesh item="Weapon\mine1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\mine1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5271,6 +5271,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </mine1>
+    <mine1Upg>
+      <type>6</type>
+      <item>
+        <name>scMineSpike</name>
+        <info>scMineSpikeInfo</info>
+        <cost>13000</cost>
+        <mesh item="Weapon\mine1Upg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\mine1Upg.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\mine1WeaponUpg</mapObj>
+        <damage>14</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>13000</chargeCost>
+        <projList>
+          <proj0>
+            <type>11</type>
+            <pos>0 0 0.2</pos>
+            <rot>0 0 0 1</rot>
+            <size>0 0 1.7</size>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>3000</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>0</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>14</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\mine1Upg</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </mine1Upg>
     <mine2>
       <type>6</type>
       <item>

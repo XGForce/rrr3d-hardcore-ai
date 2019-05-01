@@ -159,13 +159,17 @@
           <pass>0</pass>
         </car1>
         <car2>
-          <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
+          <record lib="world\db\ctCar">world\db\root\ctCar\tankchetti</record>
           <pass>0</pass>
         </car2>
         <car3>
-          <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
+          <record lib="world\db\ctCar">world\db\root\ctCar\airblade</record>
           <pass>0</pass>
         </car3>
+        <car4>
+          <record lib="world\db\ctCar">world\db\root\ctCar\manticora</record>
+          <pass>0</pass>
+        </car4>
       </cars>
       <players>
         <player0>
@@ -281,7 +285,7 @@
               <pass>2</pass>
             </slots15>
             <slots16>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1Upg</record>
               <charge>5</charge>
               <type>stMine</type>
               <pass>2</pass>
@@ -509,8 +513,8 @@
               <pass>2</pass>
             </slots12>
             <slots13>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\maslo</record>
-              <charge>2</charge>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\masloacid</record>
+              <charge>10</charge>
               <type>stMine</type>
               <pass>2</pass>
             </slots13>
@@ -701,8 +705,8 @@
               <pass>2</pass>
             </slots11>
             <slots12>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\maslo</record>
-              <charge>2</charge>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\masloacid</record>
+              <charge>10</charge>
               <type>stMine</type>
               <pass>5</pass>
             </slots12>
@@ -1151,8 +1155,8 @@
               <pass>1</pass>
             </slots5>
             <slots6>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\maslo</record>
-              <charge>2</charge>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\masloacid</record>
+              <charge>14</charge>
               <type>stMine</type>
               <pass>1</pass>
             </slots6>
@@ -1271,7 +1275,7 @@
               <pass>1</pass>
             </slots6>
             <slots7>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1Upg</record>
               <charge>5</charge>
               <type>stMine</type>
               <pass>1</pass>
@@ -1325,7 +1329,7 @@
               <pass>2</pass>
             </slots15>
             <slots16>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1Upg</record>
               <charge>6</charge>
               <type>stMine</type>
               <pass>2</pass>
@@ -1397,7 +1401,7 @@
               <pass>1</pass>
             </slots6>
             <slots7>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1Upg</record>
               <charge>7</charge>
               <type>stMine</type>
               <pass>1</pass>
@@ -1451,7 +1455,7 @@
               <pass>2</pass>
             </slots15>
             <slots16>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\mine1Upg</record>
               <charge>7</charge>
               <type>stMine</type>
               <pass>2</pass>
