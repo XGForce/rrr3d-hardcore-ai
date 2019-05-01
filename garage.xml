@@ -454,6 +454,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </rezonator>
+          <rezonatorUpg>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </rezonatorUpg>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -1670,6 +1675,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0.85 -0.6 0</offset>
           </item16>
+          <item17>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item17>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -1763,6 +1773,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0.85 0.6 0</offset>
           </item16>
+          <item17>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item17>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -2030,6 +2045,11 @@
             <rot>-0.707107 -0 -0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -2088,6 +2108,11 @@
             <rot>0.707107 0 0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -2355,6 +2380,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item15>
+          <item16>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item16>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -2443,6 +2473,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item15>
+          <item16>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item16>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -2655,6 +2690,11 @@
             <rot>-0.5 -0 -0 0.866025</rot>
             <offset>0 0 0</offset>
           </item8>
+          <item9>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item9>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -2708,6 +2748,11 @@
             <rot>0.5 0 0 0.866025</rot>
             <offset>0 0 0</offset>
           </item8>
+          <item9>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item9>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -3015,6 +3060,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item16>
+          <item17>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item17>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -3108,6 +3158,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item16>
+          <item17>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item17>
         </items>
       </stWeapon3>
       <stWeapon4>
@@ -3426,6 +3481,11 @@
             <rot>-0.707107 -0 -0 0.707107</rot>
             <offset>0 0 0</offset>
           </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -3489,6 +3549,11 @@
             <rot>0.707107 0 0 0.707107</rot>
             <offset>0 0 0</offset>
           </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
         </items>
       </stWeapon3>
       <stWeapon4>
@@ -3782,6 +3847,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item15>
+          <item16>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item16>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -3870,6 +3940,11 @@
             <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item15>
+          <item16>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item16>
         </items>
       </stWeapon3>
       <stWeapon4>

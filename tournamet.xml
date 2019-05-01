@@ -269,7 +269,7 @@
               <pass>2</pass>
             </slots13>
             <slots14>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>5</charge>
               <type>stWeapon2</type>
               <pass>2</pass>
@@ -695,7 +695,7 @@
               <pass>2</pass>
             </slots10>
             <slots11>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\pulsatorUpg</record>
               <charge>4</charge>
               <type>stWeapon2</type>
               <pass>2</pass>
@@ -3158,7 +3158,7 @@
               <pass>1</pass>
             </slots2>
             <slots3>
-              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+              <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonatorUpg</record>
               <charge>8</charge>
               <type>stWeapon2</type>
               <pass>1</pass>

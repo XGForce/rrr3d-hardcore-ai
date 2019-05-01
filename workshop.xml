@@ -4224,11 +4224,11 @@
         <name>scPhaseImpulse</name>
         <info>scPhaseImpulseInfo</info>
         <cost>26000</cost>
-        <mesh item="Weapon\phaseImpulse.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\phaseImpulse.dds">world\resManager\imageLib\tex2dLib</texture>
+        <mesh item="Weapon\phaseImpulseUpg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\phaseImpulseUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
-        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\phaseImpulse</mapObj>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\phaseImpulseUpg</mapObj>
         <damage>14</damage>
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
@@ -4686,8 +4686,8 @@
         <name>scTorpeda</name>
         <info>scTorpedaInfo</info>
         <cost>25000</cost>
-        <mesh item="Weapon\torpeda.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\torpeda.dds">world\resManager\imageLib\tex2dLib</texture>
+        <mesh item="Weapon\torpedaUpg.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\torpedaUpg.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
         <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\torpedaWeapon</mapObj>
@@ -5064,6 +5064,48 @@
         <shotDelay>0.2</shotDelay>
       </item>
     </rezonator>
+    <rezonatorUpg>
+      <type>7</type>
+      <item>
+        <name>scRezonator</name>
+        <info>scRezonatorInfo</info>
+        <cost>18000</cost>
+        <mesh item="Weapon\rezonator.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\rezonator.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\rezonator</mapObj>
+        <damage>22</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>18000</chargeCost>
+        <projList>
+          <proj0>
+            <type>23</type>
+            <pos>1 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>2 1 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>45</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>32</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>20</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\resonanse</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </rezonatorUpg>
     <droid>
       <type>8</type>
       <item>
@@ -5108,7 +5150,7 @@
       <item>
         <name>scMaslo</name>
         <info>scMasloInfo</info>
-        <cost>9000</cost>
+        <cost>10000</cost>
         <mesh item="Weapon\maslo.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\maslo.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5118,7 +5160,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>9000</chargeCost>
+        <chargeCost>10000</chargeCost>
         <projList>
           <proj0>
             <type>10</type>
@@ -5152,7 +5194,7 @@
         <info>scAcidOilInfo</info>
         <cost>7500</cost>
         <mesh item="Weapon\maslo.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
-        <texture item="Weapon\maslo_top.dds">world\resManager\imageLib\tex2dLib</texture>
+        <texture item="Weapon\maslo.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
         <rot>0 0 0 1</rot>
         <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\masloWeapon</mapObj>
@@ -5192,7 +5234,7 @@
       <item>
         <name>scMineSpike</name>
         <info>scMineSpikeInfo</info>
-        <cost>9000</cost>
+        <cost>12000</cost>
         <mesh item="Weapon\mine1.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\mine1.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5234,7 +5276,7 @@
       <item>
         <name>scMineRip</name>
         <info>scMineRipInfo</info>
-        <cost>16000</cost>
+        <cost>18000</cost>
         <mesh item="Weapon\mine2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\mine2.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5244,7 +5286,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>16000</chargeCost>
+        <chargeCost>18000</chargeCost>
         <projList>
           <proj0>
             <type>12</type>
@@ -5278,7 +5320,7 @@
       <item>
         <name>scMinePropton</name>
         <info>scMineProptonInfo</info>
-        <cost>18000</cost>
+        <cost>22000</cost>
         <mesh item="Weapon\mine3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\mine3.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5288,7 +5330,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>18000</chargeCost>
+        <chargeCost>22000</chargeCost>
         <projList>
           <proj0>
             <type>24</type>
@@ -5320,7 +5362,7 @@
       <item>
         <name>scSpring</name>
         <info>scSpringInfo</info>
-        <cost>4000</cost>
+        <cost>8000</cost>
         <mesh item="Weapon\spring.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\spring.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5330,7 +5372,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>4000</chargeCost>
+        <chargeCost>8000</chargeCost>
         <projList>
           <proj0>
             <type>17</type>
@@ -5361,7 +5403,7 @@
       <item>
         <name>scHyper</name>
         <info>scHyperInfo</info>
-        <cost>13000</cost>
+        <cost>18000</cost>
         <mesh item="Weapon\hyperdrive.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
         <texture item="Weapon\hyperdrive.dds">world\resManager\imageLib\tex2dLib</texture>
         <pos>0 0 0</pos>
@@ -5371,7 +5413,7 @@
         <maxCharge>7</maxCharge>
         <cntCharge>1</cntCharge>
         <curCharge>0</curCharge>
-        <chargeCost>13000</chargeCost>
+        <chargeCost>18000</chargeCost>
         <projList>
           <proj0>
             <type>1</type>
@@ -5422,7 +5464,7 @@
             <size>0 0 0</size>
             <offset>0 0 0</offset>
             <modelSize>true</modelSize>
-            <speed>14</speed>
+            <speed>13</speed>
             <speedRelativeMin>13</speedRelativeMin>
             <speedRelative>false</speedRelative>
             <angleSpeed>0</angleSpeed>
