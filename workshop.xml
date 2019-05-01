@@ -2304,6 +2304,106 @@
         </carFuncMap>
       </item>
     </engine3>
+    <engine4>
+      <type>4</type>
+      <item>
+        <name>scEngine3</name>
+        <info>scEngine3Info</info>
+        <cost>38000</cost>
+        <mesh item="Upgrade\engine3.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Upgrade\engine3.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <carFuncMap>
+          <func0>
+            <car lib="world\db\ctCar">world\db\root\ctCar\dirtdevil</car>
+            <longTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </longTire>
+            <latTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </latTire>
+            <maxTorque>2000</maxTorque>
+            <life>0</life>
+          </func0>
+          <func1>
+            <car lib="world\db\ctCar">world\db\root\ctCar\monstertruck</car>
+            <longTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </longTire>
+            <latTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </latTire>
+            <maxTorque>600</maxTorque>
+            <life>0</life>
+          </func1>
+          <func2>
+            <car lib="world\db\ctCar">world\db\root\ctCar\devildriver</car>
+            <longTire>
+              <extremumSlip>0.5</extremumSlip>
+              <extremumValue>6.5</extremumValue>
+              <asymptoteSlip>3</asymptoteSlip>
+              <asymptoteValue>6.4</asymptoteValue>
+            </longTire>
+            <latTire>
+              <extremumSlip>0.3</extremumSlip>
+              <extremumValue>4</extremumValue>
+              <asymptoteSlip>2</asymptoteSlip>
+              <asymptoteValue>3.5</asymptoteValue>
+            </latTire>
+            <maxTorque>1350</maxTorque>
+            <life>0</life>
+          </func2>
+          <func3>
+            <car lib="world\db\ctCar">world\db\root\ctCar\guseniza</car>
+            <longTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </longTire>
+            <latTire>
+              <extremumSlip>0</extremumSlip>
+              <extremumValue>0</extremumValue>
+              <asymptoteSlip>0</asymptoteSlip>
+              <asymptoteValue>0</asymptoteValue>
+            </latTire>
+            <maxTorque>2200</maxTorque>
+            <life>0</life>
+          </func3>
+          <func4>
+            <car lib="world\db\ctCar">world\db\root\ctCar\podushka</car>
+            <longTire>
+              <extremumSlip>0.3</extremumSlip>
+              <extremumValue>7</extremumValue>
+              <asymptoteSlip>3</asymptoteSlip>
+              <asymptoteValue>6.4</asymptoteValue>
+            </longTire>
+            <latTire>
+              <extremumSlip>0.1</extremumSlip>
+              <extremumValue>6.5</extremumValue>
+              <asymptoteSlip>0.4</asymptoteSlip>
+              <asymptoteValue>3</asymptoteValue>
+            </latTire>
+            <maxTorque>1600</maxTorque>
+            <life>0</life>
+            <maxSpeed>56</maxSpeed>
+          </func4>
+        </carFuncMap>
+      </item>
+    </engine4>
     <armor1>
       <type>3</type>
       <item>
@@ -3525,6 +3625,49 @@
         <shotDelay>0.06</shotDelay>
       </item>
     </bulletGun>
+    <bulletGunUpg>
+      <type>7</type>
+      <item>
+        <name>scBulletGun</name>
+        <info>scBulletGunInfo</info>
+        <cost>0</cost>
+        <mesh item="Weapon\bulletGun.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\marauder.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\bulletGun</mapObj>
+        <damage>10</damage>
+        <maxCharge>28</maxCharge>
+        <cntCharge>4</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeStep>4</chargeStep>
+        <chargeCost>4000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0.4 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>1.5 0.5 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>50</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>50</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>10</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\bulletProj</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.06</shotDelay>
+      </item>
+    </bulletGunUpg>
     <rifleWeapon>
       <type>7</type>
       <item>
@@ -3588,6 +3731,69 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </rifleWeapon>
+    <rifleWeaponUpg>
+      <type>7</type>
+      <item>
+        <name>scRifle</name>
+        <info>scRifleInfo</info>
+        <cost>0</cost>
+        <mesh item="Weapon\rifleWeapon.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\dirtdevil.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\rifleWeapon</mapObj>
+        <damage>16</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>20000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0.2 -0.5 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.5 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>8</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\rifleProj</model>
+          </proj0>
+          <proj1>
+            <type>0</type>
+            <pos>0.2 0.5 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.5 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>8</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\rifleProj</model>
+          </proj1>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </rifleWeaponUpg>
     <airWeapon>
       <type>7</type>
       <item>
@@ -3630,6 +3836,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </airWeapon>
+    <airWeaponUpg>
+      <type>7</type>
+      <item>
+        <name>scAirWeapon</name>
+        <info>scAirWeaponInfo</info>
+        <cost>13000</cost>
+        <mesh item="Weapon\airWeapon.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\airblade.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\airWeapon</mapObj>
+        <damage>17</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>13000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>0.2 -0.7 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 1 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>45</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>150</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>17</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\rocketAir</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </airWeaponUpg>
     <blasterGun>
       <type>7</type>
       <item>
@@ -3737,6 +3985,50 @@
         <shotDelay>1.1</shotDelay>
       </item>
     </tankLaser>
+    <tankLaserUpg>
+      <type>7</type>
+      <item>
+        <name>scTankLaser</name>
+        <info>scTankLaserInfo</info>
+        <cost>16000</cost>
+        <mesh item="Weapon\tankLaser.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\tankLaser.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\tankLaser</mapObj>
+        <damage>75</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>16000</chargeCost>
+        <projList>
+          <proj0>
+            <type>3</type>
+            <pos>0 0 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>1 0.3 1</size>
+            <sizeAddPx>0 0 -0.3</sizeAddPx>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>0</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>100</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0.5</min>
+              <max>0.5</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>75</damage>
+            <model lib="world\db\ctEffects">world\db\root\ctEffects\laserRay</model>
+            <model2 lib="world\db\ctEffects">world\db\root\ctEffects\laserSpark</model2>
+          </proj0>
+        </projList>
+        <shotDelay>1.1</shotDelay>
+      </item>
+    </tankLaserUpg>
     <sonar>
       <type>7</type>
       <item>
@@ -3863,6 +4155,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </phaseImpulse>
+    <phaseImpulseUpg>
+      <type>7</type>
+      <item>
+        <name>scPhaseImpulse</name>
+        <info>scPhaseImpulseInfo</info>
+        <cost>26000</cost>
+        <mesh item="Weapon\phaseImpulse.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\phaseImpulse.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\phaseImpulse</mapObj>
+        <damage>14</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>26000</chargeCost>
+        <projList>
+          <proj0>
+            <type>21</type>
+            <pos>0 0 0</pos>
+            <rot>0 0 0 1</rot>
+            <size>0.5 0.5 0.5</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>30</speed>
+            <speedRelativeMin>0</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>100</maxDist>
+            <mass>200</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>14</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\phaserBolt</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </phaseImpulseUpg>
     <rocketLauncher>
       <type>7</type>
       <item>
@@ -3989,6 +4323,48 @@
         <shotDelay>1.5</shotDelay>
       </item>
     </fireGun>
+    <fireGunUpg>
+      <type>7</type>
+      <item>
+        <name>scFireGun</name>
+        <info>scFireGunInfo</info>
+        <cost>18000</cost>
+        <mesh item="Weapon\fireGun.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\fireGun.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\fireGun</mapObj>
+        <damage>27</damage>
+        <maxCharge>4</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>18000</chargeCost>
+        <projList>
+          <proj0>
+            <type>14</type>
+            <pos>0.4 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>12 1.5 1.5</size>
+            <offset>6 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>0</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>12</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>1.6</min>
+              <max>1.6</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>27</damage>
+            <model lib="world\db\ctEffects">world\db\root\ctEffects\fire2</model>
+          </proj0>
+        </projList>
+        <shotDelay>1.5</shotDelay>
+      </item>
+    </fireGunUpg>
     <drobilka>
       <type>7</type>
       <item>
@@ -4073,6 +4449,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </sphereGun>
+    <sphereGunUpg>
+      <type>7</type>
+      <item>
+        <name>scSphereGun</name>
+        <info>scSphereGunInfo</info>
+        <cost>13000</cost>
+        <mesh item="Weapon\sphereGun.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\podushka.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\sphereGun</mapObj>
+        <damage>14</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>13000</chargeCost>
+        <projList>
+          <proj0>
+            <type>2</type>
+            <pos>0.1 0 0.15</pos>
+            <rot>0 0 0 1</rot>
+            <size>0.5 0.5 0.5</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>35</speed>
+            <speedRelativeMin>20</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>12.5664</angleSpeed>
+            <maxDist>150</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>14</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\spherePulse</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </sphereGunUpg>
     <torpedaWeapon>
       <type>7</type>
       <item>
@@ -4115,6 +4533,48 @@
         <shotDelay>0.2</shotDelay>
       </item>
     </torpedaWeapon>
+    <torpedaWeaponUpg>
+      <type>7</type>
+      <item>
+        <name>scTorpeda</name>
+        <info>scTorpedaInfo</info>
+        <cost>25000</cost>
+        <mesh item="Weapon\torpeda.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\torpeda.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\torpedaWeapon</mapObj>
+        <damage>55</damage>
+        <maxCharge>2</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>25000</chargeCost>
+        <projList>
+          <proj0>
+            <type>2</type>
+            <pos>0 0 0.2</pos>
+            <rot>0 0 0 1</rot>
+            <size>0 0 0</size>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>35</speed>
+            <speedRelativeMin>20</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>3.14159</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>300</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>55</damage>
+            <model lib="world\db\ctDecoration">world\db\root\ctDecoration\Misc\torpeda</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.2</shotDelay>
+      </item>
+    </torpedaWeaponUpg>
     <mortira>
       <type>7</type>
       <item>
@@ -4245,6 +4705,50 @@
         <shotDelay>1.1</shotDelay>
       </item>
     </asyncFrost2>
+    <asyncFrostUpg>
+      <type>7</type>
+      <item>
+        <name>scAsyncFrost</name>
+        <info>scAsyncFrostInfo</info>
+        <cost>0</cost>
+        <mesh item="Weapon\asyncFrost2.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Car\monstertruckBoss.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\asyncFrost2</mapObj>
+        <damage>40</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>17000</chargeCost>
+        <projList>
+          <proj0>
+            <type>18</type>
+            <pos>0.7 0 0.3</pos>
+            <rot>0 0.0654031 0 0.997859</rot>
+            <size>0.5 0.5 0</size>
+            <offset>0 0 0</offset>
+            <modelSize>true</modelSize>
+            <speed>0</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>false</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>25</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>1</min>
+              <max>1</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>40</damage>
+            <model lib="world\db\ctEffects">world\db\root\ctEffects\frostRay</model>
+            <model2 lib="world\db\ctEffects">world\db\root\ctEffects\frostHit</model2>
+            <model3 lib="world\db\ctEffects">world\db\root\ctEffects\frost</model3>
+          </proj0>
+        </projList>
+        <shotDelay>1.1</shotDelay>
+      </item>
+    </asyncFrostUpg>
     <hyperBlaster>
       <type>7</type>
       <item>
@@ -4287,6 +4791,48 @@
         <shotDelay>0.1</shotDelay>
       </item>
     </hyperBlaster>
+    <hyperBlasterUpg>
+      <type>7</type>
+      <item>
+        <name>scHyperBlaster</name>
+        <info>scHyperBlasterInfo</info>
+        <cost>18000</cost>
+        <mesh item="Weapon\hyperBlaster.r3d">world\resManager\meshLib\ivbMeshLib</mesh>
+        <texture item="Weapon\hyperBlaster.dds">world\resManager\imageLib\tex2dLib</texture>
+        <pos>0 0 0</pos>
+        <rot>0 0 0 1</rot>
+        <mapObj lib="world\db\ctWeapon">world\db\root\ctWeapon\hyperBlaster</mapObj>
+        <damage>30</damage>
+        <maxCharge>7</maxCharge>
+        <cntCharge>1</cntCharge>
+        <curCharge>0</curCharge>
+        <chargeCost>18000</chargeCost>
+        <projList>
+          <proj0>
+            <type>0</type>
+            <pos>1 0 0.1</pos>
+            <rot>0 0 0 1</rot>
+            <size>3 1 2</size>
+            <offset>0 0 0</offset>
+            <modelSize>false</modelSize>
+            <speed>40</speed>
+            <speedRelativeMin>13</speedRelativeMin>
+            <speedRelative>true</speedRelative>
+            <angleSpeed>0</angleSpeed>
+            <maxDist>300</maxDist>
+            <mass>100</mass>
+            <minTimeLife>
+              <min>0</min>
+              <max>0</max>
+              <distrib>vdLinear</distrib>
+            </minTimeLife>
+            <damage>30</damage>
+            <model lib="world\db\ctEffects">world\db\root\ctEffects\hyperBlaster</model>
+          </proj0>
+        </projList>
+        <shotDelay>0.1</shotDelay>
+      </item>
+    </hyperBlasterUpg>
     <rezonator>
       <type>7</type>
       <item>
@@ -4687,7 +5233,7 @@
             <size>0 0 0</size>
             <offset>0 0 0</offset>
             <modelSize>true</modelSize>
-            <speed>18</speed>
+            <speed>14</speed>
             <speedRelativeMin>13</speedRelativeMin>
             <speedRelative>false</speedRelative>
             <angleSpeed>0</angleSpeed>

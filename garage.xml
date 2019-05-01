@@ -123,6 +123,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -186,6 +191,11 @@
         <items>
           <item0>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\bulletGun</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item0>
+          <item0>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\bulletGunUpg</record>
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
@@ -359,6 +369,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stMotor>
       <stHyper>
@@ -401,6 +416,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -558,6 +578,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -629,6 +654,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\airWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -657,6 +687,11 @@
             <rot>0 0 0 1</rot>
             <offset>1.25 -0.3 0.05</offset>
           </item3>
+          <item4>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>-1 -0 -0 -4.37114e-008</rot>
+            <offset>0 0 0</offset>
+          </item4>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -685,6 +720,11 @@
             <rot>0 0 0 1</rot>
             <offset>1.25 0.3 0.05</offset>
           </item3>
+          <item4>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item4>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -812,6 +852,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -883,6 +928,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rifleWeapon</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -911,6 +961,11 @@
             <rot>0 0 0 1</rot>
             <offset>1.25 -0.3 0.05</offset>
           </item3>
+          <item4>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>-1 -0 -0 -4.37114e-008</rot>
+            <offset>0 0 0</offset>
+          </item4>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -939,6 +994,11 @@
             <rot>0 0 0 1</rot>
             <offset>1.25 0.3 0.05</offset>
           </item3>
+          <item4>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item4>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -1355,6 +1415,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stMotor>
       <stHyper>
@@ -1369,6 +1434,11 @@
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.25</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
+            <rot>0 0 1 -4.37114e-008</rot>
+            <offset>-1.5 0 0.25</offset>
+          </item1>
         </items>
       </stHyper>
       <stMine>
@@ -1412,6 +1482,16 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item3>
+          <item4>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\tankLaserUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item4>
+          <item5>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item5>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -1470,6 +1550,26 @@
             <rot>-0.707107 -0 -0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>-1 -0 -0 -4.37114e-008</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>-0.707107 -0 -0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item12>
+          <item13>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>-0.707107 -0 -0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item13>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -1528,6 +1628,26 @@
             <rot>0.707107 0 0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0.707107 0 0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item12>
+          <item13>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>0.707107 0 0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item13>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -1732,6 +1852,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\tankLaserUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -1941,6 +2066,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -1965,6 +2095,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stMotor>
       <stHyper>
@@ -1979,6 +2114,11 @@
             <rot>0 0 1 -4.37114e-008</rot>
             <offset>-1.5 0 0.35</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperdrive2</record>
+            <rot>0 0 1 -4.37114e-008</rot>
+            <offset>-1.5 0 0.35</offset>
+          </item1>
         </items>
       </stHyper>
       <stMine>
@@ -2007,6 +2147,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\sphereGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -2060,6 +2205,26 @@
             <rot>-0.5 -0 -0 0.866025</rot>
             <offset>0 0 0</offset>
           </item8>
+          <item9>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>-1 -0 -0 -4.37114e-008</rot>
+            <offset>0 0 0</offset>
+          </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>-0.5 -0 -0 0.866025</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>-0.5 -0 -0 0.866025</rot>
+            <offset>0 0 0</offset>
+          </item12>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -2113,6 +2278,26 @@
             <rot>0.5 0 0 0.866025</rot>
             <offset>0 0 0</offset>
           </item8>
+          <item9>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0.5 0 0 0.866025</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>0.5 0 0 0.866025</rot>
+            <offset>0 0 0</offset>
+          </item12>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -2433,7 +2618,7 @@
       <cost>120000</cost>
       <name>scMonsterTruck</name>
       <desc>scMonsterTruckInfo</desc>
-      <initialUpgradeSet>2</initialUpgradeSet>
+      <initialUpgradeSet>1</initialUpgradeSet>
       <wheel item="Car\monstertruckWheel.r3d">world\resManager\meshLib\ivbMeshLib</wheel>
       <wheels>Data\Car\monstertruckWheelGUI.txt</wheels>
       <stWheel>
@@ -2506,6 +2691,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -2530,6 +2720,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stMotor>
       <stHyper>
@@ -2577,6 +2772,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\asyncFrostUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -2635,6 +2835,26 @@
             <rot>-0.707107 -0 -0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>-1 -0 -0 -4.37114e-008</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>-0.707107 -0 -0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item12>
+          <item13>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>-0.707107 -0 -0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item13>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -2693,6 +2913,26 @@
             <rot>0.707107 0 0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\fireGunUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0.707107 0 0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item12>
+          <item13>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>0.707107 0 0 0.707107</rot>
+            <offset>0 0 0</offset>
+          </item13>
         </items>
       </stWeapon3>
       <stWeapon4>
@@ -2726,6 +2966,16 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item4>
+          <item5>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item5>
+          <item6>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item6>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -2847,6 +3097,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -2913,6 +3168,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item0>
+          <item1>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\asyncFrostUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item1>
         </items>
       </stWeapon1>
       <stWeapon2>
@@ -2971,6 +3231,11 @@
             <rot>-0.707107 -0 -0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -3029,6 +3294,11 @@
             <rot>0.707107 0 0 0.707107</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item10>
         </items>
       </stWeapon3>
       <stWeapon4>
@@ -3062,6 +3332,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item4>
+          <item5>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item5>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
@@ -3110,7 +3385,7 @@
       <cost>120000</cost>
       <name>scDevilDriver</name>
       <desc>scDevilDriverInfo</desc>
-      <initialUpgradeSet>3</initialUpgradeSet>
+      <initialUpgradeSet>1</initialUpgradeSet>
       <wheels>Data\Car\devildriverWheel.txt</wheels>
       <stWheel>
         <active>false</active>
@@ -3148,6 +3423,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\armor4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stArmor>
       <stMotor>
@@ -3172,6 +3452,11 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item2>
+          <item3>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\engine4</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item3>
         </items>
       </stMotor>
       <stHyper>
@@ -3263,20 +3548,35 @@
             <offset>0 0 0</offset>
           </item6>
           <item7>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
-            <rot>-0 -0.0654031 -0 0.997859</rot>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>-0.258819 0 0 0.965926</rot>
             <offset>0 0 0</offset>
           </item7>
           <item8>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
-            <rot>-0.258819 0 0 0.965926</rot>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
+            <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item8>
           <item9>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
             <rot>-0.258819 0 0 0.965926</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+            <rot>-0.258819 0 0 0.965926</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>-0.258819 0 0 0.965926</rot>
+            <offset>0 0 0</offset>
+          </item12>
         </items>
       </stWeapon2>
       <stWeapon3>
@@ -3321,20 +3621,35 @@
             <offset>0 0 0</offset>
           </item6>
           <item7>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
-            <rot>-0 -0.0654031 -0 0.997859</rot>
-            <offset>0 0.4 0</offset>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0.258819 0 0 0.965926</rot>
+            <offset>0 0 0</offset>
           </item7>
           <item8>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
-            <rot>0.258819 0 0 0.965926</rot>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\mortira</record>
+            <rot>-0 -0.0654031 -0 0.997859</rot>
             <offset>0 0 0</offset>
           </item8>
           <item9>
-            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
-            <rot>0.258819 0 0 0.965926</rot>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlaster</record>
+            <rot>-0.258819 0 0 0.965926</rot>
             <offset>0 0 0</offset>
           </item9>
+          <item10>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\rezonator</record>
+            <rot>-0.258819 0 0 0.965926</rot>
+            <offset>0 0 0</offset>
+          </item10>
+          <item11>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item11>
+          <item12>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\hyperBlasterUpg</record>
+            <rot>-0.258819 0 0 0.965926</rot>
+            <offset>0 0 0</offset>
+          </item12>
         </items>
       </stWeapon3>
       <stWeapon4>
@@ -3368,6 +3683,16 @@
             <rot>0 0 0 1</rot>
             <offset>0 0 0</offset>
           </item4>
+          <item5>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\phaseImpulseUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item5>
+          <item6>
+            <record lib="world\race\workshop">world\race\workshopRoot\workshop\torpedaWeaponUpg</record>
+            <rot>0 0 0 1</rot>
+            <offset>0 0 0</offset>
+          </item6>
           <droid>
             <record lib="world\race\workshop">world\race\workshopRoot\workshop\droid</record>
             <rot>0 0 0 1</rot>
